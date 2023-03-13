@@ -1,2 +1,5 @@
 release 1.0.0.1:
 JRE path changed
+
+release 1.0.0.2:
+JRE path changed to relative
